@@ -8,7 +8,7 @@ public class Main
 		int[] arr2 = { 0, 0, 0, 0, 0, 0, 1 };
 		int[] arr3 =  { 0, 1, 1, 1 };
 		
-		// Por algun motivo no quiere funcionar
+		// No funciona del todo bien
 		System.out.println(divideYVenceras(arr1));
 		System.out.println(divideYVenceras(arr2));
 		System.out.println(divideYVenceras(arr3));
