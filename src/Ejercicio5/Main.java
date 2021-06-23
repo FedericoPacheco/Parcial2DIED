@@ -6,7 +6,7 @@ public class Main
 	{
 		int[] arr1 = { 0, 0, 1, 1, 1, 1 }; 
 		int[] arr2 = { 0, 0, 0, 0, 0, 0, 1 };
-		int[] arr3 =  { 0, 1, 1, 1 };
+		int[] arr3 = { 0, 1, 1, 1 };
 		int[] arr4 = { 0 };
 		int[] arr5 = { 1 };
 		int[] arr6 = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
